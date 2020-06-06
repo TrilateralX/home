@@ -1,7 +1,7 @@
 # TrilateralX 
 ![TrilateralLogo](https://user-images.githubusercontent.com/20134338/83942319-5052a200-a7ea-11ea-8e44-76f49d5251fc.png)
 
-### TrilateralX is a collection of mini libraries used with Trilateral3 to provide GL vector graphics, for 2D but can be rendered 3D.  
+### TrilateralX is a collection of mini libraries used with [trilateral3](https://github.com/nanjizal/trilateral3) to provide 2D GraphicsLayer vector graphics. Setups can allow manipulation of 2D shapes and extrusion within 3D.  
 
 <sub><sub>The Valknut / Borromorean rings in the logo are ancient gemanic and nordic origins [Stora Hammars stones](https://en.wikipedia.org/wiki/Valknut#/media/File:Sacrificial_scene_on_Hammars_-_Valknut.png)</sub></sub>  
 <sub><sub>Indicates the Triangle nature of the library, and the different parts used together.</sub></sub>  
